@@ -4,18 +4,6 @@ deep unsupervised learning for video understanding
 <html>
 <head>
   <title> Purnima Shrivastava - Bio </title>
-  <style>
-    body { 
-         font-family: Ariel, sans-serif;
-         line-height: 1.6;
-         background-color: #f4f4f9
-         color: #333;
-    }
-    h1 { color: #0056b3;
-       }
-    u1 { list-style-type: square;
-       }
-  </style>
 </head>
 <body>
   <h1> Hello im purnima shrivastava </h1>
