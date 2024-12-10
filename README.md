@@ -4,7 +4,7 @@ deep unsupervised learning for video understanding
 <html>
  
 <body>
-  <h1> Hello im purnima shrivastava </h1>
+  <h1> introduction </h1>
   <p>  im a Masters student in Signal and image processing at NIT Rourkela </p>
   <h2> My interests </h2>
   <ul>
