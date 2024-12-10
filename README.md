@@ -1,4 +1,4 @@
-# purnima88.github.io
+# purnima Shrivastava
 deep unsupervised learning for video understanding
 <!DOCTYPE html>
 <html>
