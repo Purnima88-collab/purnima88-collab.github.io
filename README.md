@@ -2,9 +2,9 @@
 deep unsupervised learning for video understanding
 <!DOCTYPE html>
 <html>
-<head>
+ <head>
   <title> Purnima Shrivastava - Bio </title>
-</head>
+ </head>
 <body>
   <h1> Hello im purnima shrivastava </h1>
   <p>  im a Masters student in Signal and image processing at NIT Rourkela </p>
